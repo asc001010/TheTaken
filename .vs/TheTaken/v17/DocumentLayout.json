@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\UnityWorkspace\\TheTaken\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GameManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\PlayerController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\Retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\Retry.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\LoadingSceneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\LoadingSceneController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\TimelineSceneChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\TimelineSceneChanger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\NextScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\NextScene.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\GuardAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\GuardAI.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\BackGroundChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Assets\\Scripts\\BackGroundChange.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAADwvw8AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T03:46:58.647Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Retry.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\Retry.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\Retry.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\Retry.cs",
+              "RelativeToolTip": "Assets\\Scripts\\Retry.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T16:47:46.472Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BackGroundChange.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\BackGroundChange.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\BackGroundChange.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\BackGroundChange.cs",
+              "RelativeToolTip": "Assets\\Scripts\\BackGroundChange.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T15:02:45.425Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "GuardAI.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\GuardAI.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GuardAI.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\GuardAI.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GuardAI.cs",
+              "ViewState": "AgIAAMAAAAAAAAAAAAAAANYAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T14:15:58.331Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAAB0AAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:49:54.809Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "TimelineSceneChanger.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\TimelineSceneChanger.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\TimelineSceneChanger.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\TimelineSceneChanger.cs",
+              "RelativeToolTip": "Assets\\Scripts\\TimelineSceneChanger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T13:37:40.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LoadingSceneController.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\LoadingSceneController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\LoadingSceneController.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\LoadingSceneController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\LoadingSceneController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T12:35:22.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "NextScene.cs",
+              "DocumentMoniker": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\NextScene.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\NextScene.cs",
+              "ToolTip": "D:\\UnityWorkspace\\TheTaken\\Assets\\Scripts\\NextScene.cs",
+              "RelativeToolTip": "Assets\\Scripts\\NextScene.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-24T11:01:13.793Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
