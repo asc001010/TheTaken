@@ -1,0 +1,37 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/StartScene.unity
+    guid: 65e63a59b9d68db42babd89bf968c691
+  - enabled: 1
+    path: Assets/Scenes/LoadingScene.unity
+    guid: 3512a6403bd43324392e2d0effb4983d
+  - enabled: 1
+    path: Assets/Scenes/Office.unity
+    guid: ea1a8f5c3a4bb76458cb85f76cb505d2
+  - enabled: 1
+    path: Assets/Scenes/City_Cutscene.unity
+    guid: f59a2a05782379b4f8bc56cdc5b90c1b
+  - enabled: 1
+    path: Assets/Scenes/Hospital.unity
+    guid: 219b5887d6118454aae841cbffa4db3d
+  - enabled: 1
+    path: Assets/Scenes/Prison_Cutscene.unity
+    guid: 142d69ca25617744b94e4e6616461090
+  - enabled: 1
+    path: Assets/Scenes/Prison.unity
+    guid: 2a387537ae26b424cb6aed71d5589384
+  - enabled: 1
+    path: Assets/Scenes/Baby_Cutscene.unity
+    guid: 9460518f1a4490741b0d9040dfffef98
+  - enabled: 1
+    path: Assets/Scenes/BabyPrison.unity
+    guid: 753127ef56c3ac74db816ebe343d1de4
+  m_configObjects:
+    com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 052faaac586de48259a63d0c4782560b, type: 3}
+  m_UseUCBPForAssetBundles: 0
