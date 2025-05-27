@@ -1,4 +1,4 @@
-<img src="/Img/GameloGo.png"></img>
+ㅗ<img src="/Img/GameloGo.png"></img>
 </a>
 
 <br/>
@@ -80,8 +80,6 @@ AI를 활용한 게임에 대한 수요가 증가하고 있으며, 방탈출 장
 1. 게임 기획, 시나리오 작성, UI/UX 설계, AI 연동, 상호작용 구현 등 다양한 영역의 실무형 기술을 습득하였습니다.
 2. Unity 기반으로 효율적인 개발 덕분에 적은 인력으로도 유지 및 업데이트가 가능하므로 소규모게임 창업 모델로 적합합니다.
 3. AI 기술 기반 콘텐츠로 향후 교육, 체험형 콘텐츠 등으로 연계해 다양한 비즈니스 확장 가능성도 지니고 있습니다.
-<img width="2382" alt="image" src="https://github.com/user-attachments/assets/70a469fc-0070-4181-89a6-8e13d9f9550e" />
-
 <br/>
 <br/>
 
