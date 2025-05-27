@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 0bc2d30814b3a854692f9b87a81b2b80
+timeCreated: 1480590108
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77281
+  packageName: Modern City Buildings
+  packageVersion: 1.0
+  assetPath: Assets/Resources/Prefabs/building_7.prefab
+  uploadId: 151600
