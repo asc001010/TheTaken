@@ -1,0 +1,19 @@
+fileFormatVersion: 2
+guid: c7e5e7bcc41775f4e83eefa6e4e21e07
+timeCreated: 1479385810
+licenseType: Store
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77281
+  packageName: Modern City Buildings
+  packageVersion: 1.0
+  assetPath: Assets/Resources/Camera_Flyby.cs
+  uploadId: 151600

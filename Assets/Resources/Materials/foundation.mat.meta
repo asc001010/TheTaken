@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 641d37351d40c8941b46ec8c7e42c10c
+timeCreated: 1476709276
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77281
+  packageName: Modern City Buildings
+  packageVersion: 1.0
+  assetPath: Assets/Resources/Materials/foundation.mat
+  uploadId: 151600

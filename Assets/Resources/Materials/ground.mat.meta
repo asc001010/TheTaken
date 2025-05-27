@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a64254c425c410144be94ed17e925537
+timeCreated: 1479382383
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77281
+  packageName: Modern City Buildings
+  packageVersion: 1.0
+  assetPath: Assets/Resources/Materials/ground.mat
+  uploadId: 151600
