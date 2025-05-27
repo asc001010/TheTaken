@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: d2b89f15a861ce24b9fcb962eacd8c64
+timeCreated: 1480409228
+licenseType: Store
+NativeFormatImporter:
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 77281
+  packageName: Modern City Buildings
+  packageVersion: 1.0
+  assetPath: Assets/Resources/skybox.mat
+  uploadId: 151600
