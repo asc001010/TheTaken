@@ -68,6 +68,7 @@ OpenAI API에 요청 시 "system"과 "user" 역할을 갖는 메시지를 JSON �
 
 
 <br/>
+<h3>시연영상 : https://www.youtube.com/watch?v=V3i_8B_8UXE</h3>
 <br/>
 
 # 5. 활용방안 및 기대 효과
