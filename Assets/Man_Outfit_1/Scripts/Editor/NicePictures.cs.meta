@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 90dd78baecb317c40bd9daee8d17df6e
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences: []
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 276984
+  packageName: Man in Cyber Outfit - Rigged
+  packageVersion: 1.0
+  assetPath: Assets/Man_Outfit_1/Scripts/Editor/NicePictures.cs
+  uploadId: 659014
