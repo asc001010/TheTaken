@@ -1,4 +1,4 @@
-ㅗ<img src="/Img/GameloGo.png"></img>
+<img src="/Img/GameloGo.png"></img>
 </a>
 
 <br/>
