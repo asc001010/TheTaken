@@ -39,8 +39,8 @@
 # 3. Tasks & Responsibilities (작업 및 역할 분담)
 |  |  |  |
 |-----------------|-----------------|-----------------|
-| 안승찬   |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="안승찬" width="100"> | <ul><li>게임 시작화면 디자인</li><li>AI챗봇 구현</li><li>보고서 및 포스터 작성</li></ul>     |
-| 이시현   | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이시현" width="100"> | <ul><li>컷씬 제작</li><li>플레이어 이동 구현 및 전체적으로 디자인 수정</li><li>시연영상제작</li><li>발표</li></ul> |
+| 안승찬   |  <img src="https://github.com/user-attachments/assets/c1c2b1e3-656d-4712-98ab-a15e91efa2da" alt="안승찬" width="100"> | <ul><li>게임 시작화면 디자인</li><li>AI챗봇 구현</li><li>보고서</li></ul>     |
+| 이시현   | <img src="https://github.com/user-attachments/assets/beea8c64-19de-4d91-955f-ed24b813a638" alt="이시현" width="100"> | <ul><li>컷씬 제작</li><li>플레이어 이동 구현 및 전체적으로 디자인 수정</li><li>시연영상제작 및 포스터 작성</li><li>발표</li></ul> |
 | 박둘내   |  <img src="https://github.com/user-attachments/assets/78ce1062-80a0-4edb-bf6b-5efac9dd992e" alt="박둘내" width="100">    |<ul><li>맵 디자인</li><li>도어락 기능 구현</li><li>npc배치</li><li>ppt 제작</li><li>커스텀훅 개발</li></ul>  |
 
 <br/>
