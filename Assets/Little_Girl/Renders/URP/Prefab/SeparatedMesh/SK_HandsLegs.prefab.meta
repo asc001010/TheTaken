@@ -1,0 +1,14 @@
+fileFormatVersion: 2
+guid: d8a91dc1acf6ae04a9b278f2d258fc6c
+PrefabImporter:
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/URP/Prefab/SeparatedMesh/SK_HandsLegs.prefab
+  uploadId: 627007

@@ -1,0 +1,18 @@
+fileFormatVersion: 2
+guid: 3ea1fa4bf8dbf8b40924610aea0b7c73
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Resources/Built-in_resources/Shader/Transform Shader
+    Built-in.shader
+  uploadId: 627007

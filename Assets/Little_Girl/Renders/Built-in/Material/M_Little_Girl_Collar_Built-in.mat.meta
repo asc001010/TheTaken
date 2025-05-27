@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 4410e3ef05d0efc4d86cd4fd617fb6bf
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/Built-in/Material/M_Little_Girl_Collar_Built-in.mat
+  uploadId: 627007

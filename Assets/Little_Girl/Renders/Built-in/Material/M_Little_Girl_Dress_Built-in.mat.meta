@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a1403e12d4ec400499dbb97d2ca636fd
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/Built-in/Material/M_Little_Girl_Dress_Built-in.mat
+  uploadId: 627007

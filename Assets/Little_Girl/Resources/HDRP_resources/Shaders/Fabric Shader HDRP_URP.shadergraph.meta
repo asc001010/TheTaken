@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: 8c9337859f4b72d46bb1fd7558a41f68
+ScriptedImporter:
+  internalIDToNameTable: []
+  externalObjects: {}
+  serializedVersion: 2
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 625f186215c104763be7675aa2d941aa, type: 3}
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Resources/HDRP_resources/Shaders/Fabric Shader HDRP_URP.shadergraph
+  uploadId: 627007

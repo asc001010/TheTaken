@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: a5aa60ada647ad347aefe5c83ea9aa43
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Resources/HDRP_resources/HDRPDefaultResources/HDRenderPipelineAsset.asset
+  uploadId: 627007

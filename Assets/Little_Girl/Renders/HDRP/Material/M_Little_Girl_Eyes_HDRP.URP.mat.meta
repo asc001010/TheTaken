@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 04cccb38b4ce3de4b8b2e9f8698755fe
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/HDRP/Material/M_Little_Girl_Eyes_HDRP.URP.mat
+  uploadId: 627007

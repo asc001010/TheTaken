@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: e8d21d8ca71702d4a8f1a2b92818eb92
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/HDRP/Material/M_Little_Girl_Collar_HDRP.URP.mat
+  uploadId: 627007

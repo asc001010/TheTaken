@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 9ff489137ca50a647aac0a2f16ec78d1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Resources/HDRP_resources/HDRPDefaultResources/SkinDiffusionProfile.asset
+  uploadId: 627007

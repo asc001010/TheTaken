@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 43c42fd1461728d46806123de555a136
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/Built-in/Material/M_Little_Girl_Body_Built-in.mat
+  uploadId: 627007

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 171d9556246c74d49aace88043b45a20
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/Built-in/Material/M_Little_Girl_Hair_Built-in.mat
+  uploadId: 627007

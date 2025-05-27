@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 79d0b27aae3ad2a499545ea2dbc5f101
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 11400000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Resources/HDRP_resources/HDRPDefaultResources/FoliageDiffusionProfile.asset
+  uploadId: 627007

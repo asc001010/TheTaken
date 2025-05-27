@@ -1,0 +1,17 @@
+fileFormatVersion: 2
+guid: ace4b02481885454db6b7969ea5a0281
+ShaderImporter:
+  externalObjects: {}
+  defaultTextures: []
+  nonModifiableTextures: []
+  preprocessorOverride: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Resources/Built-in_resources/Shader/Hair Shader Built-in.shader
+  uploadId: 627007

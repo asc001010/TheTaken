@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 67890b158176f4d47ba246493c7fdcc1
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/HDRP/Material/M_Stand.mat
+  uploadId: 627007

@@ -1,0 +1,15 @@
+fileFormatVersion: 2
+guid: 1eac846785197ed43992091a1d31b12e
+NativeFormatImporter:
+  externalObjects: {}
+  mainObjectFileID: 2100000
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+AssetOrigin:
+  serializedVersion: 1
+  productId: 270431
+  packageName: Little_Girl
+  packageVersion: 1.0
+  assetPath: Assets/Little_Girl/Renders/URP/Skybox.mat
+  uploadId: 627007
