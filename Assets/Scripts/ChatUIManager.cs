@@ -31,7 +31,7 @@ public class ChatUIManager : MonoBehaviour
 그 외의 질문엔 항상 '…….'라고만 대답해.";
 
     [HideInInspector]
-    public string apiKey = "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"; // 네 API 키 넣기
+    public string apiKey = "sk-proj-P1Ai7exufV0WSfEtSCcTIlX5x0xbJOlb-U3M9kMvSKF8f2Y6nb3WYX; // 네 API 키 넣기
 
     [Header("Control")]
     public MonoBehaviour playerController;
